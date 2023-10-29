@@ -1,3 +1,6 @@
+# Spin Wheel as a base for several kind of games developed using React
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
